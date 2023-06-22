@@ -1,6 +1,6 @@
 {
     
-    "banner": [
+    "banner": [   //首页banner
         {
             "bannerUrl": "https://wwt.lanzouw.com/yingshiku",
             "bannerImg": "https://pic.imgdb.cn/item/62b97fa81d64b0706616c5c4.jpg"
@@ -10,7 +10,7 @@
             "bannerImg": "https://pic.imgdb.cn/item/62b97fa81d64b0706616c5c4.jpg"
         }
     ],
-    "my": [
+    "my": [   //我的页面下方广告
         {
             "bannerUrl": "https://wwt.lanzouw.com/yingshiku",
             "bannerImg": "https://5b0988e595225.cdn.sohucs.com/images/20190211/73a86526d1924fa0bc019cc82fbb8d94.png",  
@@ -30,7 +30,7 @@
 
         }
     ],
-     "detail": [
+     "detail": [   //播放页集数下方banner
         {
             "bannerUrl": "https://wwt.lanzouw.com/yingshiku",
             "bannerImg": "https://pic.imgdb.cn/item/62b97fa81d64b0706616c5c4.jpg",  
